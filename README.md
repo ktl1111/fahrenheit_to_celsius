@@ -1,1 +1,1 @@
-# fahrenheit_to_celsius
+# 這是一個將華氏溫度轉換成攝氏溫度的程式
